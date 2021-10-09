@@ -1,0 +1,15 @@
+{
+    "name": "com.nukadelic.unity-xr-controllers",
+    "version": "1.0.0",
+    "displayName": "XR Controllers",
+    "description" : "...",
+    "license": "MIT",
+    "unity": "2021.1",
+    "dependencies": {
+	"com.unity.shadergraph" : "11.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nukadelic/Unity-XR-Controllers.git"
+    }
+}
