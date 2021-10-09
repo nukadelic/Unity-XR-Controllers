@@ -12,5 +12,5 @@ The shader graphs should work in hdrp but currenly the materials are only for UR
 .  
 
 * Planned to add controller hints locations per controller that highlight the inputs in runtime
-* Planned to add auto aligner script per xr loader ( its really just a string comparison with `UnityEngine.XR.Management.XRGeneralSettings.Instance.Manager.activeLoader.name` ... but it would be useful to have all the variations stored in one place and updated when needed to include more runtims / headsets in the future ) 
+* Planned to add auto aligner script per xr loader ( its really just a string comparison with `UnityEngine.XR.Management.XRGeneralSettings.Instance.Manager.activeLoader.name` ... but it would be useful to have all the variations stored in one place and updated when needed to include more xr loaders / headsets ) 
 * Planned to make a custom editor script for the main shader and add B&W patterns support for a bit more controller personalization ability  
